@@ -1,4 +1,6 @@
-# Airbnb-Data-Analysis-Project--Power-BI
+# Airbnb-Data-Analysis-Project-Power-BI
+![Screenshot (187)](https://github.com/user-attachments/assets/6d511727-61ad-49b9-abd0-605e70ee0804)
+
 
 Welcome to my Airbnb Data Analysis Project repository! In this project, I analyzed Airbnb listings in New York City (NYC) for the year 2019 using Power BI. The goal was to uncover valuable insights into travel trends, host dynamics, and pricing strategies within the Airbnb ecosystem, focusing on how various factors influence booking behaviors and guest experiences.
 ## Overview
